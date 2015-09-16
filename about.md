@@ -5,8 +5,30 @@ permalink: /about/
 feature-img: "img/sample_feature_img_2.png"
 ---
 
-Type Theme is a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
+####My Github Page: 
+[https://github.com/Gentoomc](https://github.com/Gentoomc)
 
-Head over to the [theme's documentation](https://rohanchandra.github.io/project/type/) for much more information about Type Theme or to install this theme on your own Jekyll site.
+####Tools I've used:
 
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
+- Databases: SQLite, MongoDB, PostgreSQL
+- Languages: Python, R, VBA, Javascript, SAS
+- Web Development: Django
+- Visualization: dimple.js
+
+####Courses I've taken:
+
+######Georgia Tech
+- Analytical Tools, Marketing Research, Pricing Analytics and Revenue Management, Machine Learning for Trading (Current), Causal Inference and Data Science (Current)
+
+######Online (Udacity, Coursera, University of South Carolina)
+- Intro to Data Science, Data Wrangling with MongoDB, Intro to Machine Learning, Advanced SAS Programming, Computing in Statistics, R Programming
+
+####Projects
+
+- [Analyzing the NYC Subway Dataset (Data Science)](https://github.com/Gentoomc/NYCSubway)
+- [Data Wrangle OpenStreetMaps Data (Data Wrangling)](https://github.com/Gentoomc/OpenStreetMapAtlanta)
+- [Identifying Fraud from Enron Email (Machine Learning)](https://github.com/Gentoomc/MachineLearning-Enron)
+
+
+
+

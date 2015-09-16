@@ -1,33 +1,36 @@
 # SITE CONFIGURATION
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://example.com" # the base hostname & protocol for your site
+url: "http://gentoomc.github.io/" # the base hostname & protocol for your site
 
 # THEME-SPECIFIC CONFIGURATION
 theme:
   # Meta
-  title: Type Theme
+  title: Miri's Blog
   avatar: avatar.png
   gravatar: # Email MD5 hash
   description: "A website with blog posts and pages" # used by search engines
 
   # Header and footer text
   header_text: >
-     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+     <p>I'm Miri Cho, a grad student at Georgia Tech Scheller College of Business. 
+        I love working on analytics projects and learning to use different data science tools.
+        Currently, I'm working on several machine learning projects using python and open source databases.
+     </p>
 
-     <p>Remove all header text in <code>_config.yml</code> to disable this feature.</p>
+
   header_text_feature_image:
   footer_text: >
    Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
 
   # Icons
   rss: false
-  email_address: # Full email address, e.g. "sam@example.com"
+  email_address: "miricho09@gmail.com"
   behance:
   bitbucket:
   dribbble:
   facebook:
   flickr:
-  github: "rohanchandra/type-theme"
+  github: "Gentoomc"
   google_plus:
   instagram:
   linkedin:  # Full URL
@@ -37,7 +40,6 @@ theme:
   stack_exchange:  # Full URL
   steam:
   tumblr:
-  twitter: "twitter"
   wordpress:
   youtube:
 
